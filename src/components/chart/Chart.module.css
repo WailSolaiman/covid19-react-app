@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+}
+
+@media screen and (max-width: 991.98px) {
+    .container {
+        width: 800px;
+    }
+}
+
+@media screen and (max-width: 575.98px) {
+    .container {
+        width: 100%;
+    }
+}
