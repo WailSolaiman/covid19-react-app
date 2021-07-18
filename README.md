@@ -9,6 +9,9 @@ React app to calculate global and local COVID-19 statistics.
 * [Chart.js](https://github.com/chartjs/Chart.js) - JavaScript Data Visualization.
 * [Axios](https://github.com/axios/axios) - HTTP client.
 
+## Website
+[https://clever-jepsen-6947ca.netlify.app/](https://clever-jepsen-6947ca.netlify.app/)
+
 ## API
 
 https://covid19.mathdro.id/api
